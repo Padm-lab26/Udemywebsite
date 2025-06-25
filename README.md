@@ -1,2 +1,2 @@
-# Udemywebsite
-My First Udemy project
+# Simplefoodbookingwebsite
+My simple First food ordering project
